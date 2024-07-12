@@ -1,4 +1,7 @@
-Probing the 3D Awareness of Visual Foundation Models
+# Visualize VFMs Feature Map
+
+
+Credit to: [Probing the 3D Awareness of Visual Foundation Models](https://github.com/mbanani/probe3d)
 =====================================================
 
 This repository contains a re-implementation of the code for the paper [Probing the 3D Awareness of
