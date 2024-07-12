@@ -2,7 +2,8 @@
 
 
 Credit to: [Probing the 3D Awareness of Visual Foundation Models](https://github.com/mbanani/probe3d)
-=====================================================
+
+---
 
 This repository contains a re-implementation of the code for the paper [Probing the 3D Awareness of
 Visual Foundation Models](https://arxiv.org/abs/2404.08636) (CVPR 2024) which presents an analysis of the 3D awareness of visual
