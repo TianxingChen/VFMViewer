@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+evals.egg-info/PKG-INFO
+evals.egg-info/SOURCES.txt
+evals.egg-info/dependency_links.txt
+evals.egg-info/top_level.txt
+evals.egg-info/zip-safe

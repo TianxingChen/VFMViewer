@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: evals
+Version: 1.0
+Summary: Understanding the 3D Capabilities of 2D
+Author: Mohamed El Banani
+License: MIT
+Requires-Python: >=3.9
+License-File: LICENSE
